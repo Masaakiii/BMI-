@@ -27,5 +27,4 @@ python BMI.py
 
 🧑‍💻 作者
 
-Masaakiii
-https://github.com/Masaakiii
+[Masaakiii](https://github.com/Masaakiii)
